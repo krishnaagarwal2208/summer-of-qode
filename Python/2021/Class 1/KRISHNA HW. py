@@ -1,0 +1,16 @@
+
+#Question 1 
+print('Hi, i am going ot tell how many years you have before your turn 100 years old')
+c = int(input('What is your current age'))
+print (100-c)
+
+
+
+
+
+# question 2
+print ('I will tell you your tea bill right now')
+a = int(input('How may cups of tea did you buy from the frist shop'))
+b = int(input('How many cups did you buy from the second shop'))
+
+print (15*a + 30*b, "INR")
